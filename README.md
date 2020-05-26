@@ -57,6 +57,6 @@ Matlab scripts that can generate additional data.
 
 ## Result
 
-![result_img](./images/track_one.gif)
+![result_img](https://github.com/Ansheel9/Extended-Kalman-Filter/blob/master/Result_P5.PNG)
 
 RMSE -> [.0974, .0855, 0.4517, 0.4404].
